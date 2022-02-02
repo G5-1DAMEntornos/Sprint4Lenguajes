@@ -5,7 +5,7 @@
 
 <plato>
 <nombre>Ensalada Malagueña</nombre>
-<precio>7,50</precio>
+<precio>7.50</precio>
 <ingrediente>Patatas cocidas</ingrediente>
 <ingrediente>Huevos duros</ingrediente>
 <ingrediente>Cebolla</ingrediente>
@@ -14,7 +14,7 @@
 
 <plato>
 <nombre>Ensaladilla Rusa</nombre>
-<precio>6,50</precio>
+<precio>6.50</precio>
 <ingrediente>Patatas</ingrediente>
 <ingrediente>Zanahoria</ingrediente>
 <ingrediente>Huevos</ingrediente>
@@ -23,14 +23,14 @@
 
 <plato>
 <nombre>Patatas Bravas</nombre>
-<precio>5,50</precio>
+<precio>5.50</precio>
 <ingrediente>Patatas</ingrediente>
 <ingrediente>Salsa de tomate</ingrediente>
 </plato>
 
 <plato>
 <nombre>Croquetas de Gambas</nombre>
-<precio>8,50</precio>
+<precio>8.50</precio>
 <ingrediente>Gambas</ingrediente>
 <ingrediente>Ajo</ingrediente>
 <ingrediente>Queso</ingrediente>
@@ -42,7 +42,7 @@
 
 <plato>
 <nombre>Tarta de atún</nombre>
-<precio>11,50</precio>
+<precio>11.50</precio>
 <ingrediente>aguacate</ingrediente>
 <ingrediente>cebolla</ingrediente>
 <ingrediente>lima</ingrediente>
@@ -51,7 +51,7 @@
 
 <plato>
 <nombre>Dorada a la plancha</nombre>
-<precio>14,50</precio>
+<precio>14.50</precio>
 <ingrediente>Dorada</ingrediente>
 <ingrediente>Patatas fritas</ingrediente>
 <ingrediente>Ensalada</ingrediente>
@@ -59,7 +59,7 @@
 
 <plato>
 <nombre>Solomillo a la pimienta</nombre>
-<precio>12,50</precio>
+<precio>12.50</precio>
 <ingrediente>carne de cerdo</ingrediente>
 <ingrediente>Salsa de pimienta</ingrediente>
 <ingrediente>Patatas</ingrediente>
@@ -71,7 +71,7 @@
 
 <plato>
 <nombre>Tarta de naranja</nombre>
-<precio>4,50</precio>
+<precio>4.50</precio>
 <ingrediente>Bizcocho</ingrediente>
 <ingrediente>Vainilla con crema de naranja</ingrediente>
 <ingrediente>Granada</ingrediente>
@@ -79,7 +79,7 @@
 
 <plato>
 <nombre>Tarta del pecado</nombre>
-<precio>4,50</precio>
+<precio>4.50</precio>
 <ingrediente>Bizcocho</ingrediente>
 <ingrediente>cacao</ingrediente>
 <ingrediente>crema de dos chocolates</ingrediente>
@@ -87,14 +87,14 @@
 
 <plato>
 <nombre>Profiteroles</nombre>
-<precio>4,50</precio>
+<precio>4.50</precio>
 <ingrediente>Nata</ingrediente>
 <ingrediente>Sirope de chocolate</ingrediente>
 </plato>
 
 <plato>
 <nombre>Coulant de chocolate</nombre>
-<precio>4,50</precio>
+<precio>4.50</precio>
 <ingrediente>chocolate</ingrediente>
 <ingrediente>Sirope</ingrediente>
 <ingrediente>bola de helado</ingrediente>
