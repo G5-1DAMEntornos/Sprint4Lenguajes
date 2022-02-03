@@ -1,0 +1,28 @@
+- Sólo los postres
+    //platos[@category='postre']
+
+- Todos los platos que tengan un precio menor a 10 euros
+    //plato[precio<10.00]
+
+- todos los platos que tenga como ingrediente pescado
+    //platos/plato[ingrediente="Cebolla"]
+    (como no hay ningún plato que tenga pescado como ingrediente se ha puesto la cebolla)
+
+- El último plato de la lista
+    //platos/postre[last()]
+    (se ha cambiado el nombre del plato en la categoría postre a postre porque antes en las tres categorías
+    todos se llamaban plato y no filtraba bien)
+
+- Sólo el nombre de todos los platos
+    //plato/nombre
+
+- Sólo el nombre y el primer ingrediente de todos los platos
+    //nombre | //ingrediente[position()<2]
+
+- Haz 3 consultas más sobre lo que quieras. Especifica qué es lo que estás consultando.
+    - selecciona el nombre y el precio de todos los platos
+        //nombre | //precio
+    - selecciona todos los atributos llamados category
+        //@category
+    - seleccionar el nombre, los dos primeros ingredientes y el precio de todos los platos
+        //nombre | //ingrediente[position()<3] | //precio
