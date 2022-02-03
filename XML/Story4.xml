@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <equipos>
   <team>
-    <nombreEquipo> lang="es">Team Africa</nombreEquipo>
+    <nombreEquipo lang="es">Team Africa</nombreEquipo>
     <entrenador>Giada De Laurentiis</entrenador>
     <ranking>1</ranking>
     <jugador>
@@ -62,7 +62,7 @@
   </team>
 
   <team>
-    <nombreEquipo> lang="es">Los Limones</nombreEquipo>
+    <nombreEquipo lang="es">Los Limones</nombreEquipo>
     <entrenador>J K. Rowling</entrenador>
     <ranking>2</ranking>
 
@@ -124,7 +124,7 @@
   </team>
 
   <team>
-    <nombreEquipo> lang="es">La Peña</nombreEquipo>
+    <nombreEquipo lang="es">La Peña</nombreEquipo>
     <entrenador>James McGovern</entrenador>
     <ranking>3</ranking>
 
@@ -186,7 +186,7 @@
   </team>
 
   <team>
-    <nombreEquipo> lang="es">Los Ratones</nombreEquipo>
+    <nombreEquipo lang="es">Los Ratones</nombreEquipo>
     <entrenador>Erik T. Ray</entrenador>
     <ranking>4</ranking>
 
