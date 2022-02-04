@@ -9,9 +9,7 @@
     (como no hay ningún plato que tenga pescado como ingrediente se ha puesto la cebolla)
 
 - El último plato de la lista
-    //platos/postre[last()]
-    (se ha cambiado el nombre del plato en la categoría postre a postre porque antes en las tres categorías
-    todos se llamaban plato y no filtraba bien)
+    //platos[@category=’postre’]/plato[last()]
 
 - Sólo el nombre de todos los platos
     //plato/nombre
