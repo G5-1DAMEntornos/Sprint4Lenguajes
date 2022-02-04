@@ -1,0 +1,16 @@
+- Mostrar solo el título de los servicios
+	//nombre
+
+- Mostrar el ultimo servicio de la lista
+	//platos[@categoria='Vinos']//plato[last()]
+
+- Mostrar sólo el título y el precio de los servicios de la categoria que elijas
+	//platos[@categoria='Entrantes']//nombre | //platos[@categoria='Entrantes']//precio
+
+- Haz 3 consultas mas
+	- Selecciona el nombre y el tipo de todos los platos
+		//platos//nombre | //platos//tipo
+	- Selecciona los atributos llamados categoria
+		//@categoria
+	- Selecciona el nombre, precio, temperatura y familia
+		//platos//nombre | //platos//precio | //platos//temperatura | //platos//familia

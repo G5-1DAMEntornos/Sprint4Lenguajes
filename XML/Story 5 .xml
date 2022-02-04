@@ -1,67 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Restaurante>
-<platos>
-  <plato descripcion="Ensalada Malagueña">
-    <precio moneda="€">10,00</precio>
-    <tipo>"entrante"</tipo>
-    <temperatura>"Frio"</temperatura>
+<platos categoria="Entrantes">
+    <plato>
+    <nombre>Ensalada Malagueña</nombre>
+    <precio>10.00</precio>
+    <tipo>entrante</tipo>
+    <temperatura>Frio</temperatura>
   </plato>
 
-  <plato descripcion="Patatas bravas">
-    <precio moneda="€">8,00</precio>
-    <tipo>"entrante"</tipo>
-    <temperatura>"Caliente"</temperatura>
+  <plato>
+      <nombre>Patatas bravas</nombre>
+    <precio>8.00</precio>
+    <tipo>entrante</tipo>
+    <temperatura>Caliente</temperatura>
   </plato>
 
-  <plato descripcion="Croquetas">
-    <precio moneda="€">9,00</precio>
-    <tipo>"principal"</tipo>
-    <temperatura>"Caliente"</temperatura>
+  <plato>
+      <nombre>Croquetas</nombre>
+    <precio>9.00</precio>
+    <tipo>principal</tipo>
+    <temperatura>Caliente</temperatura>
   </plato>
 
-  <plato descripcion="Tartar de atún">
-    <precio moneda="€">15,00</precio>
-    <tipo>"entrante"</tipo>
-    <temperatura>"Frio"</temperatura>
+  <plato>
+      <nombre>Tartar de atún</nombre>
+    <precio>15.00</precio>
+    <tipo>entrante</tipo>
+    <temperatura>Frio</temperatura>
   </plato>
   
-  <plato descripcion="Dorada a la plancha">
-    <precio moneda="€">21,00</precio>
-    <tipo>"principal"</tipo>
-    <temperatura>"Caliente"</temperatura>
+  <plato>
+      <nombre>Dorada a la plancha</nombre>
+    <precio>21,00</precio>
+    <tipo>principal</tipo>
+    <temperatura>Caliente</temperatura>
   </plato>
 </platos>
 
-<Bebidas>
-  <bebida descripcion="Merlot">
-    <precio moneda="€">45,00</precio>
-    <familia>"vino"</familia>
-    <tipo>"tinto"</tipo>
-  </bebida>
+<platos categoria="Vinos">
+    <plato>
+  <nombre>Merlot</nombre>
+    <precio>45,00</precio>
+    <familia>vino</familia>
+    <tipo>tinto</tipo>
+  </plato>
 
-   <bebida descripcion="Merlot">
-    <precio moneda="€">580,00</precio>
-    <familia>"vino"</familia>
-    <tipo>"tinto"</tipo>
-  </bebida>
+   <plato>
+       <nombre>Olivares</nombre>
+    <precio>580,00</precio>
+    <familia>vino</familia>
+    <tipo>tinto</tipo>
+  </plato>
 
-   <bebida descripcion="Cabernet Sauvignon">
-    <precio moneda="€">1195,00</precio>
-    <familia>"vino"</familia>
-    <tipo>"tinto"</tipo>
-  </bebida>
+   <plato>
+       <nombre>Cabernet Sauvignon</nombre>
+    <precio>1195,00</precio>
+    <familia>vino</familia>
+    <tipo>tinto</tipo>
+  </plato>
 
-   <bebida descripcion="Chardonnay">
-    <precio moneda="€">73,00</precio>
-    <familia>"vino"</familia>
-    <tipo>"blanco"</tipo>
-  </bebida>
+   <plato>
+       <nombre>Chardonnay</nombre>
+    <precio>73,00</precio>
+    <familia>vino</familia>
+    <tipo>blanco</tipo>
+  </plato>
 
-   <bebida descripcion="Riesling">
-    <precio moneda="€">175,00</precio>
-    <familia>"vino"</familia>
-    <tipo>"blanco"</tipo>
-  </bebida>
-</Bebidas>
+   <plato>
+       <nombre>Riesling</nombre>
+    <precio>175,00</precio>
+    <familia>vino</familia>
+    <tipo>blanco</tipo>
+  </plato>
+</platos>
 
 </Restaurante>
