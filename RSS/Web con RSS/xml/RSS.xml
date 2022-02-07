@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<language>es</language>
+<copyright>2022 El Pikoteo All rights reserved.</copyright>
+
+<channel>
+  <title>El Pikoteo</title>
+  <link>https://lgk4o.csb.app/</link>
+  <description>Web del restaurante El Pikoteo</description>
+  <item>
+    <title>Bienvenida</title>
+    <link>https://lgk4o.csb.app/</link>
+    <description>Página de bienvenida del Pikoteo</description>
+  </item>
+  <item>
+    <title>Carta</title>
+    <linkhttps://lgk4o.csb.app/Carta</link>
+    <description>Carta con nuestros platos</description>
+  </item>
+   <item>
+    <title>Postres</title>
+    <link>https://lgk4o.csb.app/postres</link>
+    <description>Carta con nuestros postres</description>
+  </item>
+   <item>
+    <title>Eventos</title>
+    <link>https://lgk4o.csb.app/eventos</link>
+    <description>Sección de eventos y actuaciones en directo</description>
+  </item>
+   <item>
+    <title>Sobre nosotros</title>
+    <link>https://lgk4o.csb.app/sobrenosotros</link>
+    <description>Conoce un poco quienes somos</description>
+  </item>
+   <item>
+    <title>Contactanos</title>
+    <link>https://lgk4o.csb.app/contactos</link>
+    <description>Contacto para información y reservas</description>
+  </item>
+  <item>
+    <title>Vinos blancos</title>
+    <link>https://lgk4o.csb.app/vinosblancos</link>
+    <description>Carta de vinos blancos</description>
+  </item>
+  <item>
+    <title>Vinos rosados</title>
+    <link>https://lgk4o.csb.app/vinosrosados</link>
+    <description>Carta de vinos rosados</description>
+  </item>
+  <item>
+    <title>Vinos tintos</title>
+    <link>https://lgk4o.csb.app/vinostintos</link>
+    <description>Carta de vinos tintos</description>
+  </item>
+  
+</channel>
+
+</rss>

@@ -1,0 +1,76 @@
+.h3color {
+    color: #da8313;
+    font-size: 2.25rem;
+    text-align: center;
+}
+.h3vinos {
+    color: var(--negro); /* Arturo */
+    font-size: 1.75rem;
+    text-align: center;
+    margin-top: -1.25rem;
+}
+.h4vinos {
+    color: var(--negro);
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.textovino {
+    font-weight: bold;
+    text-align: center;
+    font-size: 2.2rem;
+    text-decoration: underline;
+    text-transform: capitalize;
+    background-color: var(--negro);
+    border: 1px solid var(--naranja);
+}
+
+.textovino:hover {
+    font-weight: bold;
+    text-align: center;
+    font-size: 2.2rem;
+    text-decoration: underline;
+    text-transform: capitalize;
+    background-color: var(--naranja);
+    border: 1px solid var(--negro);
+    color: var(--negro);
+}
+
+.parrafoMenu {
+    text-align: justify;
+    height: 9rem;
+}
+.parrafoPostres {
+    text-align: justify;
+    height: 9rem;
+}
+.parrafoEventos {
+    text-align: center;
+    height: 5rem;
+}
+
+#textindex {
+    font-size: 2.25rem;
+    text-align: justify;
+}
+
+/* DECORACIÓN */
+
+.overline {
+    /*BILAL*/
+        text-decoration: overline;
+    }
+    .tachado {
+    /*BILAL*/
+        text-decoration: line-through;
+    }
+    .espaciadopalabra {
+        word-spacing: 2rem;
+    }
+    .espaciadoletra {
+        letter-spacing: 0.5rem;
+    }
+    .indentado {
+        text-indent: 5rem;
+    }

@@ -1,0 +1,11 @@
+.textnav {
+    color: var(--naranja);
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1.25rem 1rem;
+    text-align: center; /* centrar elementos del menu hamburguesa */
+}
+.textnav:hover {
+    color: var(--negro);
+    background-color: var(--naranja);
+}
