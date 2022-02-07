@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<rss version="2.0">
+
+<channel>
+  <copyright>2022 El Pikoteo All rights reserved.</copyright>
+  <language>es</language>
+
+  <title>El Pikoteo</title>
+  <link>https://drive.google.com/file/d/1vfL7aSEEOLFw7rS5m8-UdhsQUMIpSlSn/view?usp=sharing</link>
+  <description>Web del restaurante El Pikoteo</description>
+  <item>
+    <title>Bienvenida</title>
+    <link>https://drive.google.com/file/d/1vfL7aSEEOLFw7rS5m8-UdhsQUMIpSlSn/view?usp=sharing</link>
+    <description>Pagina de bienvenida del Pikoteo</description>
+  </item>
+  <item>
+    <title>Carta</title>
+    <link>https://drive.google.com/file/d/1QGtse63ah4xFcwIWXT1aKWb-XdQS2-sA/view?usp=sharing</link>
+    <description>Carta con nuestros platos</description>
+  </item>
+   <item>
+    <title>Postres</title>
+    <link>https://drive.google.com/file/d/1pSc-cqyBqhZN64IefkXj6rd2DLsIeIHQ/view?usp=sharing</link>
+    <description>Carta con nuestros postres</description>
+  </item>
+   <item>
+    <title>Eventos</title>
+    <link>https://drive.google.com/file/d/1qcebgBt3EgSUipydU80xSx4sQ7JSyVxU/view?usp=sharing</link>
+    <description>Seccion de eventos y actuaciones en directo</description>
+  </item>
+   <item>
+    <title>Sobre nosotros</title>
+    <link>https://drive.google.com/file/d/1XSG1wVHOT9cTGUdPo-C2zoCX1bKzbPzB/view?usp=sharing</link>
+    <description>Conoce un poco quienes somos</description>
+  </item>
+   <item>
+    <title>Contactanos</title>
+    <link>https://drive.google.com/file/d/11Ob72a5_BJe7iUsvB-1Ib_CoSOFoncZ1/view?usp=sharing</link>
+    <description>Contacto para información y reservas</description>
+  </item>
+  <item>
+    <title>Vinos blancos</title>
+    <link>https://drive.google.com/file/d/19QHn1Qf9Z8K823fNK6BlVzn-Zfc-QhHR/view?usp=sharing</link>
+    <description>Carta de vinos blancos</description>
+  </item>
+  <item>
+    <title>Vinos rosados</title>
+    <link>https://drive.google.com/file/d/1eORWEyHOPHBNBqPscTP063m367mk0cVR/view?usp=sharing</link>
+    <description>Carta de vinos rosados</description>
+  </item>
+  <item>
+    <title>Vinos tintos</title>
+    <link>https://drive.google.com/file/d/1ndVSpXNgI5hmzbSVgksvgrgn3k4eOwYB/view?usp=sharing</link>
+    <description>Carta de vinos tintos</description>
+  </item>
+  
+</channel>
+
+</rss>
