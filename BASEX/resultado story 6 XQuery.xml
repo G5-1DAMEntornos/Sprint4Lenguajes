@@ -1,0 +1,97 @@
+-------------Sólo postres--------------------
+Tarta de naranja
+Tarta del pecado
+Profiteroles
+Coulant de chocolate
+-------------Precio menor a 10 euros--------------------
+Ensalada Malagueña
+7.50
+Ensaladilla Rusa
+6.50
+Patatas Bravas
+5.50
+Croquetas de Gambas
+8.50
+Tarta de naranja
+4.50
+Tarta del pecado
+4.50
+Profiteroles
+4.50
+Coulant de chocolate
+4.50
+------------Ingrediente Pescado--------------------
+Croquetas de Gambas
+Dorada a la plancha
+------------Último plato de la lista--------------------
+Coulant de chocolate
+------------Sólo nombre de todos los platos--------------------
+Ensalada Malagueña
+Ensaladilla Rusa
+Patatas Bravas
+Croquetas de Gambas
+Tarta de atún
+Dorada a la plancha
+Solomillo a la pimienta
+Tarta de naranja
+Tarta del pecado
+Profiteroles
+Coulant de chocolate
+------------Sólo nombre y primer ingrediente--------------------
+Ensalada Malagueña
+<ingrediente>Patatas cocidas</ingrediente>
+Ensaladilla Rusa
+<ingrediente>Patatas</ingrediente>
+Patatas Bravas
+<ingrediente>Patatas</ingrediente>
+Croquetas de Gambas
+<ingrediente>Gambas</ingrediente>
+Tarta de atún
+<ingrediente>aguacate</ingrediente>
+Dorada a la plancha
+<ingrediente>Dorada</ingrediente>
+Solomillo a la pimienta
+<ingrediente>carne de cerdo</ingrediente>
+Tarta de naranja
+<ingrediente>Bizcocho</ingrediente>
+Tarta del pecado
+<ingrediente>Bizcocho</ingrediente>
+Profiteroles
+<ingrediente>Nata</ingrediente>
+Coulant de chocolate
+<ingrediente>chocolate</ingrediente>
+------------Ordenar platos por nombre--------------------
+Coulant de chocolate
+Croquetas de Gambas
+Dorada a la plancha
+Ensalada Malagueña
+Ensaladilla Rusa
+Patatas Bravas
+Profiteroles
+Solomillo a la pimienta
+Tarta de atún
+Tarta de naranja
+Tarta del pecado
+------------Ordenar platos de forma descendente--------------------
+Tarta del pecado
+Tarta de naranja
+Tarta de atún
+Solomillo a la pimienta
+Profiteroles
+Patatas Bravas
+Ensaladilla Rusa
+Ensalada Malagueña
+Dorada a la plancha
+Croquetas de Gambas
+Coulant de chocolate
+------------Listar platos cuyo precio sea entre 0 y 6 euros--------
+Patatas Bravas
+5.50
+Tarta de naranja
+4.50
+Tarta del pecado
+4.50
+Profiteroles
+4.50
+Coulant de chocolate
+4.50
