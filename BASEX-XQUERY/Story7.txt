@@ -1,0 +1,48 @@
+o mostrar los jugadores del segundo equipo
+
+	for $nombre in doc("Story7Jugadores.xml")//team
+	where $nombre/ranking=2
+	return $nombre/jugador/nombre/text()
+
+o mostrar sólo los jugadores principales de todos equipos
+
+	for $nombre in doc("Story7Jugadores.xml")//team/jugador
+	where $nombre/prioridad="principal"
+	return $nombre/nombre/text()
+
+o mostrar los jugadores con un sueldo mayor a 1500 euros
+
+	for $nombre in doc("Story7Jugadores.xml")//team/jugador
+	where $nombre/sueldo>1500
+	return $nombre/nombre/text()
+
+o mostrar el equipo cuyo ranking sea igual a 1
+
+	for $nombre in doc("Story7Jugadores.xml")//team
+	where $nombre/ranking=1
+	return $nombre/nombreEquipo/text()
+
+o mostrar sólo el nombre de los equipos y su ranking
+
+	for $nombre in doc("Story7Jugadores.xml")//team
+	return( $nombre/nombreEquipo/text(),$nombre/ranking/text())
+
+o Haz 3 consultas más sobre lo que quieras. Especifica que es lo que estás consultando
+
+- Indicar Suma de sueldos del Equipo1
+
+	sum(for $nombre in doc("Story7Jugadores.xml")//team
+	where $nombre/ranking=1
+	return $nombre/jugador/sueldo)
+
+-Indicar Nombre entrenador Equipo con Ranking 4
+
+	for $nombre in doc("Story7Jugadores.xml")//team
+	where $nombre/ranking=4
+	return $nombre/nombreEquipo/text()
+
+-Indicar jugadores suplentes de todos los equipos
+
+	for $nombre in doc("Story7Jugadores.xml")//team/jugador
+	where $nombre/prioridad="suplente"
+	return $nombre/nombre/text()
