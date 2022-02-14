@@ -1,0 +1,248 @@
+<equipos>
+  <team>
+    <nombreEquipo lang="es">Team Africa</nombreEquipo>
+    <entrenador>Giada De Laurentiis</entrenador>
+    <ranking>1</ranking>
+    <jugador>
+        <nombre>Eustaquio</nombre>
+        <edad>12</edad>
+        <sueldo>2301</sueldo>
+        <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Juan</nombre>
+      <edad>12</edad>
+      <sueldo>2301</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Eustaquio</nombre>
+      <edad>12</edad>
+      <sueldo>2301</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Pepito</nombre>
+      <edad>12</edad>
+      <sueldo>2301</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Rodolfo</nombre>
+      <edad>12</edad>
+      <sueldo>2301</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Lenin</nombre>
+      <edad>12</edad>
+      <sueldo>2301</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Mbapé</nombre>
+      <edad>12</edad>
+      <sueldo>2301</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Juanillo</nombre>
+      <edad>12</edad>
+      <sueldo>2301</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+  </team>
+
+  <team>
+    <nombreEquipo lang="es">Los Limones</nombreEquipo>
+    <entrenador>J K. Rowling</entrenador>
+    <ranking>2</ranking>
+
+    <jugador>
+        <nombre>Kevin</nombre>
+        <edad>12</edad>
+        <sueldo>2500</sueldo>
+        <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Paula</nombre>
+      <edad>12</edad>
+      <sueldo>2500</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Ronin</nombre>
+      <edad>12</edad>
+      <sueldo>2500</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Ana</nombre>
+      <edad>12</edad>
+      <sueldo>2500</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Jacob</nombre>
+      <edad>12</edad>
+      <sueldo>2500</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Putin</nombre>
+      <edad>12</edad>
+      <sueldo>2500</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Obama</nombre>
+      <edad>12</edad>
+      <sueldo>2500</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Felipe</nombre>
+      <edad>12</edad>
+      <sueldo>2500</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+  </team>
+
+  <team>
+    <nombreEquipo lang="es">La Peña</nombreEquipo>
+    <entrenador>James McGovern</entrenador>
+    <ranking>3</ranking>
+
+    <jugador>
+        <nombre>Reina</nombre>
+        <edad>12</edad>
+        <sueldo>1530</sueldo>
+        <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Eustaquia</nombre>
+      <edad>12</edad>
+      <sueldo>1530</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Franchu</nombre>
+      <edad>12</edad>
+      <sueldo>1530</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Hitler</nombre>
+      <edad>12</edad>
+      <sueldo>1530</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Nacho</nombre>
+      <edad>12</edad>
+      <sueldo>1530</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Ale</nombre>
+      <edad>12</edad>
+      <sueldo>1530</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Mau</nombre>
+      <edad>12</edad>
+      <sueldo>1530</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Cruzcampo</nombre>
+      <edad>12</edad>
+      <sueldo>1530</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+  </team>
+
+  <team>
+    <nombreEquipo lang="es">Los Ratones</nombreEquipo>
+    <entrenador>Erik T. Ray</entrenador>
+    <ranking>4</ranking>
+
+    <jugador>
+      <nombre>Carlos</nombre>
+      <edad>12</edad>
+      <sueldo>1865</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Antonio</nombre>
+      <edad>12</edad>
+      <sueldo>1865</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Arturo</nombre>
+      <edad>12</edad>
+      <sueldo>1865</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Juan</nombre>
+      <edad>12</edad>
+      <sueldo>1865</sueldo>
+      <prioridad>principal</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Manilva</nombre>
+      <edad>12</edad>
+      <sueldo>1865</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Menorca</nombre>
+      <edad>12</edad>
+      <sueldo>1865</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Cacatua</nombre>
+      <edad>12</edad>
+      <sueldo>1865</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+
+    <jugador>
+      <nombre>Rastrillo</nombre>
+      <edad>12</edad>
+      <sueldo>1865</sueldo>
+      <prioridad>suplente</prioridad>
+    </jugador>
+  </team>
+</equipos> 
